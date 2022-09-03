@@ -15,6 +15,11 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Rearrange array Alternatively](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
 
 
+## Authors
+
+- [Ravi Kumar Singh @PsionicGeek](https://github.com/PsionicGeek)
+
+
 ## Feel Free to contact
 - [LinkedIn](https://www.linkedin.com/in/ravikumarsingh22/)
 - [Instagram](http://instagram.com/psionic_geek/)
