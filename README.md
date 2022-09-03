@@ -13,6 +13,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Missing Number in an Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1)
  - [Merge Two Sorted Array without extra space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
  - [Rearrange array Alternatively](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
+ - [Number of Pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1)
 
 
 ## Author
