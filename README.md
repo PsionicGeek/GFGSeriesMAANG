@@ -14,6 +14,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Merge Two Sorted Array without extra space](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
  - [Rearrange array Alternatively](https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1)
  - [Number of Pairs](https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1)
+ - [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1)
 
 
 ## Author
