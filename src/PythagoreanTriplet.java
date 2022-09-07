@@ -13,6 +13,7 @@ pythagorean triplet.
  */
 import java.io.*;
 import java.util.Arrays;
+import java.util.Collections;
 
 public class PythagoreanTriplet {
     public static void main(String[] args) throws Exception {
@@ -24,6 +25,7 @@ public class PythagoreanTriplet {
             String[] inputLine = br.readLine().split(" ");
             for (int i = 0; i < n; i++) {
                 arr[i] = Integer.parseInt(inputLine[i]);
+
             }
 
             boolean ans = new PythagoreanTriplet().checkTriplet(arr, n);
