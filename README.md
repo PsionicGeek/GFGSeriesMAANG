@@ -24,6 +24,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Trapping Rainwater](https://practice.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)
  - [Pythagorean Triplet](https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1)
  - [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+ - [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
  - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
 
 ## Author
