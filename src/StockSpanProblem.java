@@ -49,7 +49,7 @@ public class StockSpanProblem {
             ans[0] = 1;
             int i = 1;
             for (; i < n; i++) {
-                if (arr[i] > arr[i - 1]) {
+                if (arr[i] >= arr[i - 1]) {
                     int cur = i - 1;
                     int c = 1;
                     while (cur >= 0 && arr[cur] <= arr[i]) {
