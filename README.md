@@ -26,6 +26,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Chocolate Distribution Problem](https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
  - [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
  - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
+ - [Element with left side smaller and right side greater](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1)
  - [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
 
 ## Author
