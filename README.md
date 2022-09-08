@@ -27,6 +27,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Stock buy and sell](https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1)
  - [Maximum of all subarrays of size k](https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1)
  - [Element with left side smaller and right side greater](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1)
+ - [Convert Array into Zig-Zag Fashion](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0)
  - [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
 
 ## Author
