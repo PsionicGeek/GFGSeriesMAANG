@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/count-the-triplets4615/1
 //Given an array of distinct integers. The task is to count all the triplets such that sum of two elements equals the third element.
 
 import java.io.BufferedReader;

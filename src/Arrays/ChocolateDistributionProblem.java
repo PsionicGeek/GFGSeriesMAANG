@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
 //Given an array A[ ] of positive integers of size N, where each value represents the number of chocolates in a packet.
 // Each packet can have a variable number of chocolates.
 // There are M students, the task is to distribute chocolate packets among M students such that :

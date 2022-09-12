@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1
 //The cost of stock on each day is given in an array A[] of size N.
 //Find all the segment of days on which you buy and sell the stock so that in between those days your profit is maximum.
 //Note: Since there can be multiple solutions, the driver code will return 1 if your answer is correct, otherwise, it will return 0.

@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/reverse-array-in-groups0255/1
 //Given an array arr[] of positive integers of size N.
 // Reverse every sub-array group of size K.
 //Note: If at any instance, there are no more subarrays of size greater than or equal to K, then reverse the last subarray (irrespective of its size).

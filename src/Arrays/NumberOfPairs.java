@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/number-of-pairs-1587115620/1
 //Given two arrays X and Y of positive integers, find the number of pairs such that x^y > y^x (raised to power of) where x is an element from X and y is an element from Y.
 
 import java.io.*;

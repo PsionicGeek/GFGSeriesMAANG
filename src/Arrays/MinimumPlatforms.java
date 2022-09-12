@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
 //Given arrival and departure times of all trains that reach a railway station.
 //Find the minimum number of platforms required for the railway station so that no train is kept waiting.
 //Consider that all the trains arrive on the same day and leave on the same day.

@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1
 //Given a sorted array of positive integers. Your task is to rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on.
 //Note: Modify the original array itself.
 

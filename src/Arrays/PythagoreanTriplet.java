@@ -1,4 +1,4 @@
-
+package Arrays;
 /*
 https://practice.geeksforgeeks.org/problems/pythagorean-triplet3018/1
 Given an array arr of N integers, write a function that returns true if there is a triplet (a, b, c) that satisfies a^2 + b^2 = c^2, otherwise false.
@@ -13,7 +13,6 @@ pythagorean triplet.
  */
 import java.io.*;
 import java.util.Arrays;
-import java.util.Collections;
 
 public class PythagoreanTriplet {
     public static void main(String[] args) throws Exception {

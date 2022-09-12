@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1
 //Given a matrix of size r*c. Traverse the matrix in spiral form.
 //Example:
 //

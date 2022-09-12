@@ -1,4 +1,4 @@
-//https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
+package Arrays;//https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1
 //Given an array arr[] of size N and an integer K. Find the maximum for each and every contiguous subarray of size K.
 //Example:-
 //Input:
