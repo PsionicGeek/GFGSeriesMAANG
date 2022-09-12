@@ -29,6 +29,8 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Element with left side smaller and right side greater](https://practice.geeksforgeeks.org/problems/unsorted-array4925/1)
  - [Convert Array into Zig-Zag Fashion](https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion/0)
  - [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
+ - [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
+ - [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
 
 ## Author
 
