@@ -34,7 +34,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
 
 ## String
 
- - []()
+ - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
 ## Author
 
 - [Ravi Kumar Singh @PsionicGeek](https://github.com/PsionicGeek)
