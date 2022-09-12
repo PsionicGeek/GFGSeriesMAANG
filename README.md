@@ -35,6 +35,9 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
 ## String
 
  - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
+ - [Longest Palindrome in a Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
+
+
 ## Author
 
 - [Ravi Kumar Singh @PsionicGeek](https://github.com/PsionicGeek)
