@@ -31,12 +31,13 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
  - [Spirally traversing a matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)
  - [Largest Number formed from an Array](https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array1117/1)
- - [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
 
 ## String
 
  - [Permutations of a given string](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0)
  - [Longest Palindrome in a Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
+ - [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
+
 
 
 ## Author
