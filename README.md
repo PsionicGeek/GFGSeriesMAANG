@@ -40,6 +40,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
  - [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
  - [Anagram](https://practice.geeksforgeeks.org/problems/anagram-1587115620/1)
+ - [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1)
 
 
 
