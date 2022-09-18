@@ -38,6 +38,7 @@ Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe
  - [Longest Palindrome in a Substring](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string3411/1)
  - [Recursively remove all adjacent duplicates](https://practice.geeksforgeeks.org/problems/recursively-remove-all-adjacent-duplicates0744/1)
  - [Check if string is rotated by two places](https://practice.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1)
+ - [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1)
 
 
 
